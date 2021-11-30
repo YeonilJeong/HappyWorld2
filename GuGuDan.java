@@ -5,5 +5,6 @@ public static void gugu2dan() {
 			System.out.println(dan + "*" + i = "=" + dan * i);
 	}
 		System.out.println("git hub에서 수정한 내용");
+		System.out.println("git pull을 사용해서 가져오기");
 		} 
 }
